@@ -13,6 +13,9 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="testex" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -27,10 +30,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MyFirstTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="67" column="49" lean-forward="true" selection-end-line="89" />
+            <state relative-caret-position="-328">
+              <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1234#1250#0" expanded="true" />
+                <element signature="e#3233#3249#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,55 +72,17 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="301" />
-    <option name="y" value="88" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="330" />
+    <option name="y" value="74" />
     <option name="width" value="944" />
-    <option name="height" value="681" />
+    <option name="height" value="682" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="testex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testex" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="testex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="testex" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -159,11 +126,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstTest.myFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyFirstTest.FormRequestOfCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="testex" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MyFirstTest" />
-      <option name="METHOD_NAME" value="myFirstTest" />
+      <option name="METHOD_NAME" value="FormRequestOfCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyFirstTest.formContributionIncome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testex" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyFirstTest" />
+      <option name="METHOD_NAME" value="formContributionIncome" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,7 +149,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.MyFirstTest" />
-        <item itemvalue="JUnit.MyFirstTest.myFirstTest" />
+        <item itemvalue="JUnit.MyFirstTest.formContributionIncome" />
+        <item itemvalue="JUnit.MyFirstTest.FormRequestOfCard" />
       </list>
     </recent_temporary>
   </component>
@@ -191,78 +169,82 @@
       <workItem from="1559728476410" duration="8574000" />
       <workItem from="1559769309967" duration="8553000" />
       <workItem from="1559805362732" duration="17639000" />
-      <workItem from="1559851653478" duration="3203000" />
+      <workItem from="1559851653478" duration="4568000" />
+      <workItem from="1559895713503" duration="6102000" />
+      <workItem from="1559908672147" duration="1569000" />
+      <workItem from="1560091881183" duration="12123000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyFirstTest - 2019.06.06 at 14h 25m 10s.xml">
+    <history-entry file="MyFirstTest - 2019.06.09 at 23h 54m 14s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 14h 27m 10s.xml">
+    <history-entry file="MyFirstTest - 2019.06.09 at 23h 56m 31s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 14h 34m 08s.xml">
+    <history-entry file="MyFirstTest - 2019.06.09 at 23h 59m 22s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 14h 35m 17s.xml">
+    <history-entry file="MyFirstTest - 2019.06.10 at 00h 01m 01s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 14h 36m 10s.xml">
+    <history-entry file="MyFirstTest - 2019.06.10 at 00h 04m 15s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 15h 08m 39s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
+    <history-entry file="MyFirstTest_FormRequestOfCard - 2019.06.10 at 00h 04m 50s.xml">
+      <configuration name="MyFirstTest.FormRequestOfCard" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 15h 10m 02s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
+    <history-entry file="MyFirstTest_formContributionIncome - 2019.06.10 at 00h 05m 22s.xml">
+      <configuration name="MyFirstTest.formContributionIncome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 15h 14m 20s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
+    <history-entry file="MyFirstTest_formContributionIncome - 2019.06.10 at 00h 06m 11s.xml">
+      <configuration name="MyFirstTest.formContributionIncome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 15h 29m 14s.xml">
-      <configuration name="MyFirstTest" configurationId="JUnit" />
+    <history-entry file="MyFirstTest_formContributionIncome - 2019.06.10 at 00h 10m 45s.xml">
+      <configuration name="MyFirstTest.formContributionIncome" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstTest - 2019.06.06 at 15h 31m 30s.xml">
+    <history-entry file="MyFirstTest - 2019.06.10 at 00h 13m 46s.xml">
       <configuration name="MyFirstTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45700000" />
+    <option name="totallyTimeSpent" value="66859000" />
   </component>
-  <component name="TodoView" selected-index="1">
+  <component name="TodoView">
     <todo-panel id="selected-file">
+      <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
     <todo-panel id="all">
       <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
+      <are-modules-shown value="true" />
+      <flatten-packages value="true" />
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
-    <editor active="true" />
+    <frame x="330" y="74" width="944" height="682" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.26" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" visible="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25460124" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40337422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.32668713" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.2745399" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32668713" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32604736" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50075644" side_tool="true" weight="0.2898773" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.4608379" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.5429448" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -279,6 +261,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/MyFirstTest" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-chrome-driver/2.26.0/selenium-chrome-driver-2.26.0.jar!/org/openqa/selenium/chrome/ChromeDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -286,12 +275,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.26.0/selenium-api-2.26.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyFirstTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="67" column="49" lean-forward="true" selection-end-line="89" />
+        <state relative-caret-position="-328">
+          <caret line="58" column="31" lean-forward="true" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1234#1250#0" expanded="true" />
+            <element signature="e#3233#3249#0" expanded="true" />
           </folding>
         </state>
       </provider>
