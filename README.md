@@ -1,5 +1,6 @@
 # Tests
 Тестовое задание для тестировщика стажёра
+ПО: IntelliJ IDEA CE; Chromedriver; Maven; Selenium;
 
 Тест 1:
 1) Открыть сайт rencredit.ru
